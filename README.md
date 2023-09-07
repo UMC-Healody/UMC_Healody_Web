@@ -9,3 +9,4 @@
 | :-----: | :-----: |
 | [데이빗(김태영)](https://github.com/kimtaeyoung201910794) | [린니(이혜린)](https://github.com/HYERINI)  | 
 <br>
+![image](https://github.com/UMC-Healody/UMC_Healody_Web/assets/62414583/9fcae282-9a9d-4cc1-a182-6f6f1c14f390)
